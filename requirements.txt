@@ -1,0 +1,17 @@
+langchain_openai
+langserve
+python-dotenv
+langchain_community
+fastapi
+streamlit
+uvicorn
+nltk
+pypdf
+faiss-cpu 
+transformers
+flask
+scikit-learn
+sentence-transformers
+pandas
+numpy
+pinecone-client
